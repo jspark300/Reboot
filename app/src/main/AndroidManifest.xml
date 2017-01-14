@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.giant_monkey.reboot">
 
-    <uses-permission android:name="android.permission.REBOOT" />
-    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <!--<uses-permission android:name="android.permission.REBOOT" />-->
+    <!--<uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />-->
 
     <application
         android:allowBackup="true"
